@@ -1,5 +1,8 @@
 package cc.vividcode.java22.statementsbeforesuper;
 
+/**
+ * Validating superclass constructor arguments
+ */
 class Super1 {
   private int value;
 

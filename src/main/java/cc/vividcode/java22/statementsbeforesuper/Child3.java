@@ -1,5 +1,8 @@
 package cc.vividcode.java22.statementsbeforesuper;
 
+/**
+ * Sharing superclass constructor arguments
+ */
 class Super3 {
   private int v1;
   private int v2;

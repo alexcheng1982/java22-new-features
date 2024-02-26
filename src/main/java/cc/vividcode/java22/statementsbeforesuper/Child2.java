@@ -2,6 +2,9 @@ package cc.vividcode.java22.statementsbeforesuper;
 
 import java.util.UUID;
 
+/**
+ * Preparing superclass constructor arguments
+ */
 class Super2 {
   private String id;
 
