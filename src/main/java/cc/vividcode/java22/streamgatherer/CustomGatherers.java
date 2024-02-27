@@ -15,6 +15,7 @@ public class CustomGatherers {
             new Student("001", "Alex")
         ).gather(DistinctBy.of(Student::id))
         .toList();
+    // [Student[id=001, name=Alex], Student[id=002, name=Bob]]
     System.out.println(result);
   }
 
