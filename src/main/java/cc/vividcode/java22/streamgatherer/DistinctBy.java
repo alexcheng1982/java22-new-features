@@ -7,7 +7,7 @@ import java.util.stream.Gatherer;
 import java.util.stream.Gatherer.Integrator;
 
 /**
- * Distinct by an object's property
+ * Distinct by an object's property, keep last duplicated element
  */
 public class DistinctBy {
 
